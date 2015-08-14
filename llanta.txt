@@ -1,0 +1,6 @@
+public class{
+	int diametro;
+	String material;
+	int Grosor;
+
+}
