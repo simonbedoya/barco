@@ -1,3 +1,8 @@
+
 class motor{
 	String marca;
+
+	int cilindraje;
+
+
 }
